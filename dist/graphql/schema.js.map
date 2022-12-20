@@ -1,1 +1,0 @@
-{"version":3,"file":"schema.js","sourceRoot":"","sources":["../../src/graphql/schema.ts"],"names":[],"mappings":";;;AAAA,qDAAoD;AACpD,0DAA8D;AAC9D,wDAA0D;AAE7C,QAAA,WAAW,GAAG,IAAA,mCAAiB,EAAC;IAC3C,OAAO,EAAE,CAAC,wBAAc,EAAE,sBAAY,CAAC;CACxC,CAAC,CAAC"}
